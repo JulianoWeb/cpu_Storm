@@ -29,3 +29,5 @@ python main.py
 * Tkinter
 * Psutil
 * Pillow
+
+
